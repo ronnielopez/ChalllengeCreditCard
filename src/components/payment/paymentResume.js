@@ -77,7 +77,7 @@ export default function Payment() {
                             </Typography>
                         </div>
                     </Step>
-                    <Step onClick={() => setActiveStep(2)}>
+                    <Step>
                     <CheckBadgeIcon className="h-5 w-5" />
                         <div className="absolute -bottom-[4.5rem] w-max text-center text-black ">
                             <Typography
