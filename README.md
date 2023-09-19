@@ -11,9 +11,6 @@ This React app provides a user-friendly interface for viewing and managing credi
   - [Installation](#installation)
 - [Usage](#usage)
   - [Running the App](#running-the-app)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
